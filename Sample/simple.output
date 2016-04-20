@@ -1,0 +1,3991 @@
+
+
+Terminals which are not used:
+
+   NEWLINE
+   ZNACH
+   NE
+   UTV
+   VIHOD
+   QUOTE1
+   QUOTE2
+   TRASH
+
+
+Conflict in state 38 between rule 34 and token NOTEQ resolved as reduce.
+Conflict in state 38 between rule 34 and token POW resolved as reduce.
+Conflict in state 38 between rule 34 and token OR resolved as reduce.
+Conflict in state 38 between rule 34 and token AND resolved as reduce.
+Conflict in state 38 between rule 34 and token '<' resolved as reduce.
+Conflict in state 38 between rule 34 and token '>' resolved as reduce.
+Conflict in state 38 between rule 34 and token '=' resolved as reduce.
+Conflict in state 38 between rule 34 and token LESSEQ resolved as reduce.
+Conflict in state 38 between rule 34 and token MOREEQ resolved as reduce.
+Conflict in state 38 between rule 34 and token '-' resolved as reduce.
+Conflict in state 38 between rule 34 and token '+' resolved as reduce.
+Conflict in state 38 between rule 34 and token '*' resolved as reduce.
+Conflict in state 38 between rule 34 and token '/' resolved as reduce.
+Conflict in state 59 between rule 48 and token NOTEQ resolved as shift.
+Conflict in state 59 between rule 48 and token POW resolved as shift.
+Conflict in state 59 between rule 48 and token OR resolved as shift.
+Conflict in state 59 between rule 48 and token AND resolved as shift.
+Conflict in state 59 between rule 48 and token '<' resolved as shift.
+Conflict in state 59 between rule 48 and token '>' resolved as shift.
+Conflict in state 59 between rule 48 and token '=' resolved as shift.
+Conflict in state 59 between rule 48 and token LESSEQ resolved as shift.
+Conflict in state 59 between rule 48 and token MOREEQ resolved as shift.
+Conflict in state 59 between rule 48 and token '-' resolved as shift.
+Conflict in state 59 between rule 48 and token '+' resolved as shift.
+Conflict in state 59 between rule 48 and token '*' resolved as shift.
+Conflict in state 59 between rule 48 and token '/' resolved as shift.
+Conflict in state 84 between rule 37 and token NOTEQ resolved as reduce.
+Conflict in state 84 between rule 37 and token POW resolved as shift.
+Conflict in state 84 between rule 37 and token OR resolved as reduce.
+Conflict in state 84 between rule 37 and token AND resolved as reduce.
+Conflict in state 84 between rule 37 and token '<' resolved as reduce.
+Conflict in state 84 between rule 37 and token '>' resolved as reduce.
+Conflict in state 84 between rule 37 and token '=' resolved as reduce.
+Conflict in state 84 between rule 37 and token LESSEQ resolved as reduce.
+Conflict in state 84 between rule 37 and token MOREEQ resolved as reduce.
+Conflict in state 84 between rule 37 and token '-' resolved as shift.
+Conflict in state 84 between rule 37 and token '+' resolved as shift.
+Conflict in state 84 between rule 37 and token '*' resolved as shift.
+Conflict in state 84 between rule 37 and token '/' resolved as shift.
+Conflict in state 85 between rule 35 and token NOTEQ resolved as reduce.
+Conflict in state 85 between rule 35 and token POW resolved as reduce.
+Conflict in state 85 between rule 35 and token OR resolved as reduce.
+Conflict in state 85 between rule 35 and token AND resolved as reduce.
+Conflict in state 85 between rule 35 and token '<' resolved as reduce.
+Conflict in state 85 between rule 35 and token '>' resolved as reduce.
+Conflict in state 85 between rule 35 and token '=' resolved as reduce.
+Conflict in state 85 between rule 35 and token LESSEQ resolved as reduce.
+Conflict in state 85 between rule 35 and token MOREEQ resolved as reduce.
+Conflict in state 85 between rule 35 and token '-' resolved as reduce.
+Conflict in state 85 between rule 35 and token '+' resolved as reduce.
+Conflict in state 85 between rule 35 and token '*' resolved as reduce.
+Conflict in state 85 between rule 35 and token '/' resolved as reduce.
+Conflict in state 86 between rule 38 and token NOTEQ resolved as shift.
+Conflict in state 86 between rule 38 and token POW resolved as shift.
+Conflict in state 86 between rule 38 and token OR resolved as reduce.
+Conflict in state 86 between rule 38 and token AND resolved as shift.
+Conflict in state 86 between rule 38 and token '<' resolved as shift.
+Conflict in state 86 between rule 38 and token '>' resolved as shift.
+Conflict in state 86 between rule 38 and token '=' resolved as shift.
+Conflict in state 86 between rule 38 and token LESSEQ resolved as shift.
+Conflict in state 86 between rule 38 and token MOREEQ resolved as shift.
+Conflict in state 86 between rule 38 and token '-' resolved as shift.
+Conflict in state 86 between rule 38 and token '+' resolved as shift.
+Conflict in state 86 between rule 38 and token '*' resolved as shift.
+Conflict in state 86 between rule 38 and token '/' resolved as shift.
+Conflict in state 87 between rule 39 and token NOTEQ resolved as shift.
+Conflict in state 87 between rule 39 and token POW resolved as shift.
+Conflict in state 87 between rule 39 and token OR resolved as reduce.
+Conflict in state 87 between rule 39 and token AND resolved as reduce.
+Conflict in state 87 between rule 39 and token '<' resolved as shift.
+Conflict in state 87 between rule 39 and token '>' resolved as shift.
+Conflict in state 87 between rule 39 and token '=' resolved as shift.
+Conflict in state 87 between rule 39 and token LESSEQ resolved as shift.
+Conflict in state 87 between rule 39 and token MOREEQ resolved as shift.
+Conflict in state 87 between rule 39 and token '-' resolved as shift.
+Conflict in state 87 between rule 39 and token '+' resolved as shift.
+Conflict in state 87 between rule 39 and token '*' resolved as shift.
+Conflict in state 87 between rule 39 and token '/' resolved as shift.
+Conflict in state 88 between rule 44 and token NOTEQ resolved as reduce.
+Conflict in state 88 between rule 44 and token POW resolved as shift.
+Conflict in state 88 between rule 44 and token OR resolved as reduce.
+Conflict in state 88 between rule 44 and token AND resolved as reduce.
+Conflict in state 88 between rule 44 and token '<' resolved as reduce.
+Conflict in state 88 between rule 44 and token '>' resolved as reduce.
+Conflict in state 88 between rule 44 and token '=' resolved as reduce.
+Conflict in state 88 between rule 44 and token LESSEQ resolved as reduce.
+Conflict in state 88 between rule 44 and token MOREEQ resolved as reduce.
+Conflict in state 88 between rule 44 and token '-' resolved as shift.
+Conflict in state 88 between rule 44 and token '+' resolved as shift.
+Conflict in state 88 between rule 44 and token '*' resolved as shift.
+Conflict in state 88 between rule 44 and token '/' resolved as shift.
+Conflict in state 89 between rule 43 and token NOTEQ resolved as reduce.
+Conflict in state 89 between rule 43 and token POW resolved as shift.
+Conflict in state 89 between rule 43 and token OR resolved as reduce.
+Conflict in state 89 between rule 43 and token AND resolved as reduce.
+Conflict in state 89 between rule 43 and token '<' resolved as reduce.
+Conflict in state 89 between rule 43 and token '>' resolved as reduce.
+Conflict in state 89 between rule 43 and token '=' resolved as reduce.
+Conflict in state 89 between rule 43 and token LESSEQ resolved as reduce.
+Conflict in state 89 between rule 43 and token MOREEQ resolved as reduce.
+Conflict in state 89 between rule 43 and token '-' resolved as shift.
+Conflict in state 89 between rule 43 and token '+' resolved as shift.
+Conflict in state 89 between rule 43 and token '*' resolved as shift.
+Conflict in state 89 between rule 43 and token '/' resolved as shift.
+Conflict in state 90 between rule 47 and token NOTEQ resolved as reduce.
+Conflict in state 90 between rule 47 and token POW resolved as shift.
+Conflict in state 90 between rule 47 and token OR resolved as reduce.
+Conflict in state 90 between rule 47 and token AND resolved as reduce.
+Conflict in state 90 between rule 47 and token '<' resolved as reduce.
+Conflict in state 90 between rule 47 and token '>' resolved as reduce.
+Conflict in state 90 between rule 47 and token '=' resolved as reduce.
+Conflict in state 90 between rule 47 and token LESSEQ resolved as reduce.
+Conflict in state 90 between rule 47 and token MOREEQ resolved as reduce.
+Conflict in state 90 between rule 47 and token '-' resolved as shift.
+Conflict in state 90 between rule 47 and token '+' resolved as shift.
+Conflict in state 90 between rule 47 and token '*' resolved as shift.
+Conflict in state 90 between rule 47 and token '/' resolved as shift.
+Conflict in state 91 between rule 45 and token NOTEQ resolved as reduce.
+Conflict in state 91 between rule 45 and token POW resolved as shift.
+Conflict in state 91 between rule 45 and token OR resolved as reduce.
+Conflict in state 91 between rule 45 and token AND resolved as reduce.
+Conflict in state 91 between rule 45 and token '<' resolved as reduce.
+Conflict in state 91 between rule 45 and token '>' resolved as reduce.
+Conflict in state 91 between rule 45 and token '=' resolved as reduce.
+Conflict in state 91 between rule 45 and token LESSEQ resolved as reduce.
+Conflict in state 91 between rule 45 and token MOREEQ resolved as reduce.
+Conflict in state 91 between rule 45 and token '-' resolved as shift.
+Conflict in state 91 between rule 45 and token '+' resolved as shift.
+Conflict in state 91 between rule 45 and token '*' resolved as shift.
+Conflict in state 91 between rule 45 and token '/' resolved as shift.
+Conflict in state 92 between rule 46 and token NOTEQ resolved as reduce.
+Conflict in state 92 between rule 46 and token POW resolved as shift.
+Conflict in state 92 between rule 46 and token OR resolved as reduce.
+Conflict in state 92 between rule 46 and token AND resolved as reduce.
+Conflict in state 92 between rule 46 and token '<' resolved as reduce.
+Conflict in state 92 between rule 46 and token '>' resolved as reduce.
+Conflict in state 92 between rule 46 and token '=' resolved as reduce.
+Conflict in state 92 between rule 46 and token LESSEQ resolved as reduce.
+Conflict in state 92 between rule 46 and token MOREEQ resolved as reduce.
+Conflict in state 92 between rule 46 and token '-' resolved as shift.
+Conflict in state 92 between rule 46 and token '+' resolved as shift.
+Conflict in state 92 between rule 46 and token '*' resolved as shift.
+Conflict in state 92 between rule 46 and token '/' resolved as shift.
+Conflict in state 93 between rule 31 and token NOTEQ resolved as reduce.
+Conflict in state 93 between rule 31 and token POW resolved as shift.
+Conflict in state 93 between rule 31 and token OR resolved as reduce.
+Conflict in state 93 between rule 31 and token AND resolved as reduce.
+Conflict in state 93 between rule 31 and token '<' resolved as reduce.
+Conflict in state 93 between rule 31 and token '>' resolved as reduce.
+Conflict in state 93 between rule 31 and token '=' resolved as reduce.
+Conflict in state 93 between rule 31 and token LESSEQ resolved as reduce.
+Conflict in state 93 between rule 31 and token MOREEQ resolved as reduce.
+Conflict in state 93 between rule 31 and token '-' resolved as reduce.
+Conflict in state 93 between rule 31 and token '+' resolved as reduce.
+Conflict in state 93 between rule 31 and token '*' resolved as shift.
+Conflict in state 93 between rule 31 and token '/' resolved as shift.
+Conflict in state 94 between rule 30 and token NOTEQ resolved as reduce.
+Conflict in state 94 between rule 30 and token POW resolved as shift.
+Conflict in state 94 between rule 30 and token OR resolved as reduce.
+Conflict in state 94 between rule 30 and token AND resolved as reduce.
+Conflict in state 94 between rule 30 and token '<' resolved as reduce.
+Conflict in state 94 between rule 30 and token '>' resolved as reduce.
+Conflict in state 94 between rule 30 and token '=' resolved as reduce.
+Conflict in state 94 between rule 30 and token LESSEQ resolved as reduce.
+Conflict in state 94 between rule 30 and token MOREEQ resolved as reduce.
+Conflict in state 94 between rule 30 and token '-' resolved as reduce.
+Conflict in state 94 between rule 30 and token '+' resolved as reduce.
+Conflict in state 94 between rule 30 and token '*' resolved as shift.
+Conflict in state 94 between rule 30 and token '/' resolved as shift.
+Conflict in state 95 between rule 32 and token NOTEQ resolved as reduce.
+Conflict in state 95 between rule 32 and token POW resolved as shift.
+Conflict in state 95 between rule 32 and token OR resolved as reduce.
+Conflict in state 95 between rule 32 and token AND resolved as reduce.
+Conflict in state 95 between rule 32 and token '<' resolved as reduce.
+Conflict in state 95 between rule 32 and token '>' resolved as reduce.
+Conflict in state 95 between rule 32 and token '=' resolved as reduce.
+Conflict in state 95 between rule 32 and token LESSEQ resolved as reduce.
+Conflict in state 95 between rule 32 and token MOREEQ resolved as reduce.
+Conflict in state 95 between rule 32 and token '-' resolved as reduce.
+Conflict in state 95 between rule 32 and token '+' resolved as reduce.
+Conflict in state 95 between rule 32 and token '*' resolved as reduce.
+Conflict in state 95 between rule 32 and token '/' resolved as reduce.
+Conflict in state 96 between rule 33 and token NOTEQ resolved as reduce.
+Conflict in state 96 between rule 33 and token POW resolved as shift.
+Conflict in state 96 between rule 33 and token OR resolved as reduce.
+Conflict in state 96 between rule 33 and token AND resolved as reduce.
+Conflict in state 96 between rule 33 and token '<' resolved as reduce.
+Conflict in state 96 between rule 33 and token '>' resolved as reduce.
+Conflict in state 96 between rule 33 and token '=' resolved as reduce.
+Conflict in state 96 between rule 33 and token LESSEQ resolved as reduce.
+Conflict in state 96 between rule 33 and token MOREEQ resolved as reduce.
+Conflict in state 96 between rule 33 and token '-' resolved as reduce.
+Conflict in state 96 between rule 33 and token '+' resolved as reduce.
+Conflict in state 96 between rule 33 and token '*' resolved as reduce.
+Conflict in state 96 between rule 33 and token '/' resolved as reduce.
+Conflict in state 130 between rule 49 and token NOTEQ resolved as shift.
+Conflict in state 130 between rule 49 and token POW resolved as shift.
+Conflict in state 130 between rule 49 and token OR resolved as shift.
+Conflict in state 130 between rule 49 and token AND resolved as shift.
+Conflict in state 130 between rule 49 and token '<' resolved as shift.
+Conflict in state 130 between rule 49 and token '>' resolved as shift.
+Conflict in state 130 between rule 49 and token '=' resolved as shift.
+Conflict in state 130 between rule 49 and token LESSEQ resolved as shift.
+Conflict in state 130 between rule 49 and token MOREEQ resolved as shift.
+Conflict in state 130 between rule 49 and token '-' resolved as shift.
+Conflict in state 130 between rule 49 and token '+' resolved as shift.
+Conflict in state 130 between rule 49 and token '*' resolved as shift.
+Conflict in state 130 between rule 49 and token '/' resolved as shift.
+
+Grammar
+rule 1    program -> stmt_list ALG ';' func_pref_list NACH ';' stmt_list KON ';'
+rule 2    program -> ALG ';' func_pref_list NACH ';' stmt_list KON ';'
+rule 3    program -> stmt_list ALG ';' func_pref_list NACH ';' stmt_list KON ';' func_list
+rule 4    program -> ALG ';' func_pref_list NACH ';' stmt_list KON ';' func_list
+rule 5    func_list -> ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'
+rule 6    func_list -> TYPE ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'
+rule 7    func_list -> func_list ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'
+rule 8    func_list -> func_list TYPE ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'
+rule 9    stmt_list -> stmt
+rule 10   stmt_list -> stmt_list stmt
+rule 11   stmt -> expr ';'
+rule 12   stmt -> if_stmt ';'
+rule 13   stmt -> loop_stmt ';'
+rule 14   stmt -> switch_stmt ';'
+rule 15   stmt -> TYPE id_list ';'
+rule 16   stmt -> VVOD id_list ';'
+rule 17   stmt -> VIVOD expr_list ';'
+rule 18   if_stmt -> IF expr THEN stmt_list VSE
+rule 19   if_stmt -> IF expr THEN stmt_list ELSE stmt_list VSE
+rule 20   switch_stmt -> VIBOR switch_lines VSE
+rule 21   switch_stmt -> VIBOR switch_lines ELSE stmt_list VSE
+rule 22   switch_lines -> PRI expr ':' stmt_list
+rule 23   switch_lines -> switch_lines PRI expr ':' stmt_list
+rule 24   loop_stmt -> NZ DLYA ID OT CELVAL DO CELVAL stmt_list KZ
+rule 25   loop_stmt -> NZ DLYA ID OT CELVAL DO CELVAL SHAG CELVAL stmt_list KZ
+rule 26   loop_stmt -> NZ stmt_list KZ
+rule 27   loop_stmt -> NZ stmt_list KZ_PRI expr
+rule 28   loop_stmt -> NZ POKA expr ';' stmt_list KZ
+rule 29   loop_stmt -> NZ CELVAL RAZ stmt_list KZ
+rule 30   expr -> expr '+' expr
+rule 31   expr -> expr '-' expr
+rule 32   expr -> expr '*' expr
+rule 33   expr -> expr '/' expr
+rule 34   expr -> '-' expr
+rule 35   expr -> expr POW expr
+rule 36   expr -> '(' expr ')'
+rule 37   expr -> expr NOTEQ expr
+rule 38   expr -> expr OR expr
+rule 39   expr -> expr AND expr
+rule 40   expr -> DA
+rule 41   expr -> NET
+rule 42   expr -> NS
+rule 43   expr -> expr '>' expr
+rule 44   expr -> expr '<' expr
+rule 45   expr -> expr LESSEQ expr
+rule 46   expr -> expr MOREEQ expr
+rule 47   expr -> expr '=' expr
+rule 48   expr -> ID ASSIGN expr
+rule 49   expr -> ID '[' CELVAL ']' ASSIGN expr
+rule 50   expr -> CELVAL
+rule 51   expr -> VESHVAL
+rule 52   expr -> ID '[' CELVAL ']'
+rule 53   expr -> ID
+rule 54   expr -> ID '(' expr_list ')'
+rule 55   expr -> ID '(' ')'
+rule 56   expr_list -> expr
+rule 57   expr_list -> expr_list ',' expr
+rule 58   id_list -> ID
+rule 59   id_list -> ID '[' CELVAL ']'
+rule 60   id_list -> id_list ',' ID
+rule 61   id_list -> id_list ',' ID '[' CELVAL ']'
+rule 62   arg_list ->		/* empty */
+rule 63   arg_list -> arg_listE
+rule 64   arg_listE -> ARGTYPE TYPE ID
+rule 65   arg_listE -> ARGTYPE TYPE ID '[' CELVAL ']'
+rule 66   arg_listE -> TYPE ID
+rule 67   arg_listE -> TYPE ID '[' CELVAL ']'
+rule 68   arg_listE -> arg_listE ',' ARGTYPE TYPE ID
+rule 69   arg_listE -> arg_listE ',' ARGTYPE TYPE ID '[' CELVAL ']'
+rule 70   arg_listE -> arg_listE ',' TYPE ID
+rule 71   arg_listE -> arg_listE ',' TYPE ID '[' CELVAL ']'
+rule 72   func_pref_list ->		/* empty */
+rule 73   func_pref_list -> func_pref_listE
+rule 74   func_pref_listE -> FUNCPREF ';'
+rule 75   func_pref_listE -> FUNCPREF expr ';'
+rule 76   func_pref_listE -> func_pref_listE FUNCPREF
+rule 77   func_pref_listE -> func_pref_listE FUNCPREF expr ';'
+
+Terminals, with rules where they appear
+
+$ (-1)
+'(' (40) 5 6 7 8 36 54 55
+')' (41) 5 6 7 8 36 54 55
+'*' (42) 32
+'+' (43) 30
+',' (44) 57 60 61 68 69 70 71
+'-' (45) 31 34
+'/' (47) 33
+':' (58) 22 23
+';' (59) 1 2 3 4 5 6 7 8 11 12 13 14 15 16 17 28 74 75 77
+'<' (60) 44
+'=' (61) 47
+'>' (62) 43
+'[' (91) 49 52 59 61 65 67 69 71
+']' (93) 49 52 59 61 65 67 69 71
+error (256)
+CELVAL (258) 24 25 29 49 50 52 59 61 65 67 69 71
+VESHVAL (259) 51
+ID (260) 5 6 7 8 24 25 48 49 52 53 54 55 58 59 60 61 64 65 66 67 68
+    69 70 71
+NOTEQ (261) 37
+ASSIGN (262) 48 49
+POW (263) 35
+NEWLINE (264)
+VIBOR (265) 20 21
+PRI (266) 22 23
+NZ (267) 24 25 26 27 28 29
+KZ (268) 24 25 26 28 29
+KZ_PRI (269) 27
+IF (270) 18 19
+ELSE (271) 19 21
+THEN (272) 18 19
+OT (273) 24 25
+DO (274) 24 25
+VSE (275) 18 19 20 21
+DLYA (276) 24 25
+SHAG (277) 25
+POKA (278) 28
+RAZ (279) 29
+DA (280) 40
+NET (281) 41
+OR (282) 38
+AND (283) 39
+ALG (284) 1 2 3 4 5 6 7 8
+NACH (285) 1 2 3 4 5 6 7 8
+KON (286) 1 2 3 4 5 6 7 8
+TYPE (287) 6 8 15 64 65 66 67 68 69 70 71
+FUNCPREF (288) 74 75 76 77
+ARGTYPE (289) 64 65 68 69
+NS (290) 42
+VVOD (291) 16
+VIVOD (292) 17
+ZNACH (293)
+NE (294)
+UTV (295)
+VIHOD (296)
+QUOTE1 (297)
+QUOTE2 (298)
+TRASH (299)
+LESSEQ (300) 45
+MOREEQ (301) 46
+UMINUS (302)
+
+Nonterminals, with rules where they appear
+
+program (62)
+    on left: 1 2 3 4
+func_list (63)
+    on left: 5 6 7 8, on right: 3 4 7 8
+stmt_list (64)
+    on left: 9 10, on right: 1 2 3 4 5 6 7 8 10 18 19 21 22 23 24 25
+    26 27 28 29
+stmt (65)
+    on left: 11 12 13 14 15 16 17, on right: 9 10
+if_stmt (66)
+    on left: 18 19, on right: 12
+switch_stmt (67)
+    on left: 20 21, on right: 14
+switch_lines (68)
+    on left: 22 23, on right: 20 21 23
+loop_stmt (69)
+    on left: 24 25 26 27 28 29, on right: 13
+expr (70)
+    on left: 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+    48 49 50 51 52 53 54 55, on right: 11 18 19 22 23 27 28 30 31 32
+    33 34 35 36 37 38 39 43 44 45 46 47 48 49 56 57 75 77
+expr_list (71)
+    on left: 56 57, on right: 17 54 57
+id_list (72)
+    on left: 58 59 60 61, on right: 15 16 60 61
+arg_list (73)
+    on left: 62 63, on right: 5 6 7 8
+arg_listE (74)
+    on left: 64 65 66 67 68 69 70 71, on right: 63 68 69 70 71
+func_pref_list (75)
+    on left: 72 73, on right: 1 2 3 4 5 6 7 8
+func_pref_listE (76)
+    on left: 74 75 76 77, on right: 73 76 77
+
+
+state 0
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    ALG 	shift, and go to state 9
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    program	go to state 229
+    stmt_list	go to state 16
+    stmt	go to state 17
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 1
+
+    expr  ->  CELVAL .   (rule 50)
+
+    $default	reduce using rule 50 (expr)
+
+
+
+state 2
+
+    expr  ->  VESHVAL .   (rule 51)
+
+    $default	reduce using rule 51 (expr)
+
+
+
+state 3
+
+    expr  ->  ID . ASSIGN expr   (rule 48)
+    expr  ->  ID . '[' CELVAL ']' ASSIGN expr   (rule 49)
+    expr  ->  ID . '[' CELVAL ']'   (rule 52)
+    expr  ->  ID .   (rule 53)
+    expr  ->  ID . '(' expr_list ')'   (rule 54)
+    expr  ->  ID . '(' ')'   (rule 55)
+
+    ASSIGN	shift, and go to state 22
+    '[' 	shift, and go to state 23
+    '(' 	shift, and go to state 24
+
+    $default	reduce using rule 53 (expr)
+
+
+
+state 4
+
+    switch_stmt  ->  VIBOR . switch_lines VSE   (rule 20)
+    switch_stmt  ->  VIBOR . switch_lines ELSE stmt_list VSE   (rule 21)
+
+    PRI 	shift, and go to state 25
+
+    switch_lines	go to state 26
+
+
+
+state 5
+
+    loop_stmt  ->  NZ . DLYA ID OT CELVAL DO CELVAL stmt_list KZ   (rule 24)
+    loop_stmt  ->  NZ . DLYA ID OT CELVAL DO CELVAL SHAG CELVAL stmt_list KZ   (rule 25)
+    loop_stmt  ->  NZ . stmt_list KZ   (rule 26)
+    loop_stmt  ->  NZ . stmt_list KZ_PRI expr   (rule 27)
+    loop_stmt  ->  NZ . POKA expr ';' stmt_list KZ   (rule 28)
+    loop_stmt  ->  NZ . CELVAL RAZ stmt_list KZ   (rule 29)
+
+    CELVAL	shift, and go to state 27
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DLYA	shift, and go to state 28
+    POKA	shift, and go to state 29
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt_list	go to state 30
+    stmt	go to state 17
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 6
+
+    if_stmt  ->  IF . expr THEN stmt_list VSE   (rule 18)
+    if_stmt  ->  IF . expr THEN stmt_list ELSE stmt_list VSE   (rule 19)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 31
+
+
+
+state 7
+
+    expr  ->  DA .   (rule 40)
+
+    $default	reduce using rule 40 (expr)
+
+
+
+state 8
+
+    expr  ->  NET .   (rule 41)
+
+    $default	reduce using rule 41 (expr)
+
+
+
+state 9
+
+    program  ->  ALG . ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 2)
+    program  ->  ALG . ';' func_pref_list NACH ';' stmt_list KON ';' func_list   (rule 4)
+
+    ';' 	shift, and go to state 32
+
+
+
+state 10
+
+    stmt  ->  TYPE . id_list ';'   (rule 15)
+
+    ID  	shift, and go to state 33
+
+    id_list	go to state 34
+
+
+
+state 11
+
+    expr  ->  NS .   (rule 42)
+
+    $default	reduce using rule 42 (expr)
+
+
+
+state 12
+
+    stmt  ->  VVOD . id_list ';'   (rule 16)
+
+    ID  	shift, and go to state 33
+
+    id_list	go to state 35
+
+
+
+state 13
+
+    stmt  ->  VIVOD . expr_list ';'   (rule 17)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 36
+    expr_list	go to state 37
+
+
+
+state 14
+
+    expr  ->  '-' . expr   (rule 34)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 38
+
+
+
+state 15
+
+    expr  ->  '(' . expr ')'   (rule 36)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 39
+
+
+
+state 16
+
+    program  ->  stmt_list . ALG ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 1)
+    program  ->  stmt_list . ALG ';' func_pref_list NACH ';' stmt_list KON ';' func_list   (rule 3)
+    stmt_list  ->  stmt_list . stmt   (rule 10)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    ALG 	shift, and go to state 40
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt	go to state 41
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 17
+
+    stmt_list  ->  stmt .   (rule 9)
+
+    $default	reduce using rule 9 (stmt_list)
+
+
+
+state 18
+
+    stmt  ->  if_stmt . ';'   (rule 12)
+
+    ';' 	shift, and go to state 42
+
+
+
+state 19
+
+    stmt  ->  switch_stmt . ';'   (rule 14)
+
+    ';' 	shift, and go to state 43
+
+
+
+state 20
+
+    stmt  ->  loop_stmt . ';'   (rule 13)
+
+    ';' 	shift, and go to state 44
+
+
+
+state 21
+
+    stmt  ->  expr . ';'   (rule 11)
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    NOTEQ	shift, and go to state 45
+    POW 	shift, and go to state 46
+    OR  	shift, and go to state 47
+    AND 	shift, and go to state 48
+    '<' 	shift, and go to state 49
+    '>' 	shift, and go to state 50
+    '=' 	shift, and go to state 51
+    LESSEQ	shift, and go to state 52
+    MOREEQ	shift, and go to state 53
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+    ';' 	shift, and go to state 58
+
+
+
+state 22
+
+    expr  ->  ID ASSIGN . expr   (rule 48)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 59
+
+
+
+state 23
+
+    expr  ->  ID '[' . CELVAL ']' ASSIGN expr   (rule 49)
+    expr  ->  ID '[' . CELVAL ']'   (rule 52)
+
+    CELVAL	shift, and go to state 60
+
+
+
+state 24
+
+    expr  ->  ID '(' . expr_list ')'   (rule 54)
+    expr  ->  ID '(' . ')'   (rule 55)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+    ')' 	shift, and go to state 61
+
+    expr	go to state 36
+    expr_list	go to state 62
+
+
+
+state 25
+
+    switch_lines  ->  PRI . expr ':' stmt_list   (rule 22)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 63
+
+
+
+state 26
+
+    switch_stmt  ->  VIBOR switch_lines . VSE   (rule 20)
+    switch_stmt  ->  VIBOR switch_lines . ELSE stmt_list VSE   (rule 21)
+    switch_lines  ->  switch_lines . PRI expr ':' stmt_list   (rule 23)
+
+    PRI 	shift, and go to state 64
+    ELSE	shift, and go to state 65
+    VSE 	shift, and go to state 66
+
+
+
+state 27
+
+    loop_stmt  ->  NZ CELVAL . RAZ stmt_list KZ   (rule 29)
+    expr  ->  CELVAL .   (rule 50)
+
+    RAZ 	shift, and go to state 67
+
+    $default	reduce using rule 50 (expr)
+
+
+
+state 28
+
+    loop_stmt  ->  NZ DLYA . ID OT CELVAL DO CELVAL stmt_list KZ   (rule 24)
+    loop_stmt  ->  NZ DLYA . ID OT CELVAL DO CELVAL SHAG CELVAL stmt_list KZ   (rule 25)
+
+    ID  	shift, and go to state 68
+
+
+
+state 29
+
+    loop_stmt  ->  NZ POKA . expr ';' stmt_list KZ   (rule 28)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 69
+
+
+
+state 30
+
+    stmt_list  ->  stmt_list . stmt   (rule 10)
+    loop_stmt  ->  NZ stmt_list . KZ   (rule 26)
+    loop_stmt  ->  NZ stmt_list . KZ_PRI expr   (rule 27)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    KZ  	shift, and go to state 70
+    KZ_PRI	shift, and go to state 71
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt	go to state 41
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 31
+
+    if_stmt  ->  IF expr . THEN stmt_list VSE   (rule 18)
+    if_stmt  ->  IF expr . THEN stmt_list ELSE stmt_list VSE   (rule 19)
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    NOTEQ	shift, and go to state 45
+    POW 	shift, and go to state 46
+    THEN	shift, and go to state 72
+    OR  	shift, and go to state 47
+    AND 	shift, and go to state 48
+    '<' 	shift, and go to state 49
+    '>' 	shift, and go to state 50
+    '=' 	shift, and go to state 51
+    LESSEQ	shift, and go to state 52
+    MOREEQ	shift, and go to state 53
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+
+
+
+state 32
+
+    program  ->  ALG ';' . func_pref_list NACH ';' stmt_list KON ';'   (rule 2)
+    program  ->  ALG ';' . func_pref_list NACH ';' stmt_list KON ';' func_list   (rule 4)
+
+    FUNCPREF	shift, and go to state 73
+
+    $default	reduce using rule 72 (func_pref_list)
+
+    func_pref_list	go to state 74
+    func_pref_listE	go to state 75
+
+
+
+state 33
+
+    id_list  ->  ID .   (rule 58)
+    id_list  ->  ID . '[' CELVAL ']'   (rule 59)
+
+    '[' 	shift, and go to state 76
+
+    $default	reduce using rule 58 (id_list)
+
+
+
+state 34
+
+    stmt  ->  TYPE id_list . ';'   (rule 15)
+    id_list  ->  id_list . ',' ID   (rule 60)
+    id_list  ->  id_list . ',' ID '[' CELVAL ']'   (rule 61)
+
+    ';' 	shift, and go to state 77
+    ',' 	shift, and go to state 78
+
+
+
+state 35
+
+    stmt  ->  VVOD id_list . ';'   (rule 16)
+    id_list  ->  id_list . ',' ID   (rule 60)
+    id_list  ->  id_list . ',' ID '[' CELVAL ']'   (rule 61)
+
+    ';' 	shift, and go to state 79
+    ',' 	shift, and go to state 78
+
+
+
+state 36
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+    expr_list  ->  expr .   (rule 56)
+
+    NOTEQ	shift, and go to state 45
+    POW 	shift, and go to state 46
+    OR  	shift, and go to state 47
+    AND 	shift, and go to state 48
+    '<' 	shift, and go to state 49
+    '>' 	shift, and go to state 50
+    '=' 	shift, and go to state 51
+    LESSEQ	shift, and go to state 52
+    MOREEQ	shift, and go to state 53
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+
+    $default	reduce using rule 56 (expr_list)
+
+
+
+state 37
+
+    stmt  ->  VIVOD expr_list . ';'   (rule 17)
+    expr_list  ->  expr_list . ',' expr   (rule 57)
+
+    ';' 	shift, and go to state 80
+    ',' 	shift, and go to state 81
+
+
+
+state 38
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  '-' expr .   (rule 34)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+
+    $default	reduce using rule 34 (expr)
+
+
+
+state 39
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  '(' expr . ')'   (rule 36)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    NOTEQ	shift, and go to state 45
+    POW 	shift, and go to state 46
+    OR  	shift, and go to state 47
+    AND 	shift, and go to state 48
+    '<' 	shift, and go to state 49
+    '>' 	shift, and go to state 50
+    '=' 	shift, and go to state 51
+    LESSEQ	shift, and go to state 52
+    MOREEQ	shift, and go to state 53
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+    ')' 	shift, and go to state 82
+
+
+
+state 40
+
+    program  ->  stmt_list ALG . ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 1)
+    program  ->  stmt_list ALG . ';' func_pref_list NACH ';' stmt_list KON ';' func_list   (rule 3)
+
+    ';' 	shift, and go to state 83
+
+
+
+state 41
+
+    stmt_list  ->  stmt_list stmt .   (rule 10)
+
+    $default	reduce using rule 10 (stmt_list)
+
+
+
+state 42
+
+    stmt  ->  if_stmt ';' .   (rule 12)
+
+    $default	reduce using rule 12 (stmt)
+
+
+
+state 43
+
+    stmt  ->  switch_stmt ';' .   (rule 14)
+
+    $default	reduce using rule 14 (stmt)
+
+
+
+state 44
+
+    stmt  ->  loop_stmt ';' .   (rule 13)
+
+    $default	reduce using rule 13 (stmt)
+
+
+
+state 45
+
+    expr  ->  expr NOTEQ . expr   (rule 37)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 84
+
+
+
+state 46
+
+    expr  ->  expr POW . expr   (rule 35)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 85
+
+
+
+state 47
+
+    expr  ->  expr OR . expr   (rule 38)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 86
+
+
+
+state 48
+
+    expr  ->  expr AND . expr   (rule 39)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 87
+
+
+
+state 49
+
+    expr  ->  expr '<' . expr   (rule 44)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 88
+
+
+
+state 50
+
+    expr  ->  expr '>' . expr   (rule 43)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 89
+
+
+
+state 51
+
+    expr  ->  expr '=' . expr   (rule 47)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 90
+
+
+
+state 52
+
+    expr  ->  expr LESSEQ . expr   (rule 45)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 91
+
+
+
+state 53
+
+    expr  ->  expr MOREEQ . expr   (rule 46)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 92
+
+
+
+state 54
+
+    expr  ->  expr '-' . expr   (rule 31)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 93
+
+
+
+state 55
+
+    expr  ->  expr '+' . expr   (rule 30)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 94
+
+
+
+state 56
+
+    expr  ->  expr '*' . expr   (rule 32)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 95
+
+
+
+state 57
+
+    expr  ->  expr '/' . expr   (rule 33)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 96
+
+
+
+state 58
+
+    stmt  ->  expr ';' .   (rule 11)
+
+    $default	reduce using rule 11 (stmt)
+
+
+
+state 59
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+    expr  ->  ID ASSIGN expr .   (rule 48)
+
+    NOTEQ	shift, and go to state 45
+    POW 	shift, and go to state 46
+    OR  	shift, and go to state 47
+    AND 	shift, and go to state 48
+    '<' 	shift, and go to state 49
+    '>' 	shift, and go to state 50
+    '=' 	shift, and go to state 51
+    LESSEQ	shift, and go to state 52
+    MOREEQ	shift, and go to state 53
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+
+    $default	reduce using rule 48 (expr)
+
+
+
+state 60
+
+    expr  ->  ID '[' CELVAL . ']' ASSIGN expr   (rule 49)
+    expr  ->  ID '[' CELVAL . ']'   (rule 52)
+
+    ']' 	shift, and go to state 97
+
+
+
+state 61
+
+    expr  ->  ID '(' ')' .   (rule 55)
+
+    $default	reduce using rule 55 (expr)
+
+
+
+state 62
+
+    expr  ->  ID '(' expr_list . ')'   (rule 54)
+    expr_list  ->  expr_list . ',' expr   (rule 57)
+
+    ')' 	shift, and go to state 98
+    ',' 	shift, and go to state 81
+
+
+
+state 63
+
+    switch_lines  ->  PRI expr . ':' stmt_list   (rule 22)
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    NOTEQ	shift, and go to state 45
+    POW 	shift, and go to state 46
+    OR  	shift, and go to state 47
+    AND 	shift, and go to state 48
+    '<' 	shift, and go to state 49
+    '>' 	shift, and go to state 50
+    '=' 	shift, and go to state 51
+    LESSEQ	shift, and go to state 52
+    MOREEQ	shift, and go to state 53
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+    ':' 	shift, and go to state 99
+
+
+
+state 64
+
+    switch_lines  ->  switch_lines PRI . expr ':' stmt_list   (rule 23)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 100
+
+
+
+state 65
+
+    switch_stmt  ->  VIBOR switch_lines ELSE . stmt_list VSE   (rule 21)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt_list	go to state 101
+    stmt	go to state 17
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 66
+
+    switch_stmt  ->  VIBOR switch_lines VSE .   (rule 20)
+
+    $default	reduce using rule 20 (switch_stmt)
+
+
+
+state 67
+
+    loop_stmt  ->  NZ CELVAL RAZ . stmt_list KZ   (rule 29)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt_list	go to state 102
+    stmt	go to state 17
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 68
+
+    loop_stmt  ->  NZ DLYA ID . OT CELVAL DO CELVAL stmt_list KZ   (rule 24)
+    loop_stmt  ->  NZ DLYA ID . OT CELVAL DO CELVAL SHAG CELVAL stmt_list KZ   (rule 25)
+
+    OT  	shift, and go to state 103
+
+
+
+state 69
+
+    loop_stmt  ->  NZ POKA expr . ';' stmt_list KZ   (rule 28)
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    NOTEQ	shift, and go to state 45
+    POW 	shift, and go to state 46
+    OR  	shift, and go to state 47
+    AND 	shift, and go to state 48
+    '<' 	shift, and go to state 49
+    '>' 	shift, and go to state 50
+    '=' 	shift, and go to state 51
+    LESSEQ	shift, and go to state 52
+    MOREEQ	shift, and go to state 53
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+    ';' 	shift, and go to state 104
+
+
+
+state 70
+
+    loop_stmt  ->  NZ stmt_list KZ .   (rule 26)
+
+    $default	reduce using rule 26 (loop_stmt)
+
+
+
+state 71
+
+    loop_stmt  ->  NZ stmt_list KZ_PRI . expr   (rule 27)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 105
+
+
+
+state 72
+
+    if_stmt  ->  IF expr THEN . stmt_list VSE   (rule 18)
+    if_stmt  ->  IF expr THEN . stmt_list ELSE stmt_list VSE   (rule 19)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt_list	go to state 106
+    stmt	go to state 17
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 73
+
+    func_pref_listE  ->  FUNCPREF . ';'   (rule 74)
+    func_pref_listE  ->  FUNCPREF . expr ';'   (rule 75)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+    ';' 	shift, and go to state 107
+
+    expr	go to state 108
+
+
+
+state 74
+
+    program  ->  ALG ';' func_pref_list . NACH ';' stmt_list KON ';'   (rule 2)
+    program  ->  ALG ';' func_pref_list . NACH ';' stmt_list KON ';' func_list   (rule 4)
+
+    NACH	shift, and go to state 109
+
+
+
+state 75
+
+    func_pref_list  ->  func_pref_listE .   (rule 73)
+    func_pref_listE  ->  func_pref_listE . FUNCPREF   (rule 76)
+    func_pref_listE  ->  func_pref_listE . FUNCPREF expr ';'   (rule 77)
+
+    FUNCPREF	shift, and go to state 110
+
+    $default	reduce using rule 73 (func_pref_list)
+
+
+
+state 76
+
+    id_list  ->  ID '[' . CELVAL ']'   (rule 59)
+
+    CELVAL	shift, and go to state 111
+
+
+
+state 77
+
+    stmt  ->  TYPE id_list ';' .   (rule 15)
+
+    $default	reduce using rule 15 (stmt)
+
+
+
+state 78
+
+    id_list  ->  id_list ',' . ID   (rule 60)
+    id_list  ->  id_list ',' . ID '[' CELVAL ']'   (rule 61)
+
+    ID  	shift, and go to state 112
+
+
+
+state 79
+
+    stmt  ->  VVOD id_list ';' .   (rule 16)
+
+    $default	reduce using rule 16 (stmt)
+
+
+
+state 80
+
+    stmt  ->  VIVOD expr_list ';' .   (rule 17)
+
+    $default	reduce using rule 17 (stmt)
+
+
+
+state 81
+
+    expr_list  ->  expr_list ',' . expr   (rule 57)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 113
+
+
+
+state 82
+
+    expr  ->  '(' expr ')' .   (rule 36)
+
+    $default	reduce using rule 36 (expr)
+
+
+
+state 83
+
+    program  ->  stmt_list ALG ';' . func_pref_list NACH ';' stmt_list KON ';'   (rule 1)
+    program  ->  stmt_list ALG ';' . func_pref_list NACH ';' stmt_list KON ';' func_list   (rule 3)
+
+    FUNCPREF	shift, and go to state 73
+
+    $default	reduce using rule 72 (func_pref_list)
+
+    func_pref_list	go to state 114
+    func_pref_listE	go to state 75
+
+
+
+state 84
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr NOTEQ expr .   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    POW 	shift, and go to state 46
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+
+    $default	reduce using rule 37 (expr)
+
+
+
+state 85
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr POW expr .   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+
+    $default	reduce using rule 35 (expr)
+
+
+
+state 86
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr OR expr .   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    NOTEQ	shift, and go to state 45
+    POW 	shift, and go to state 46
+    AND 	shift, and go to state 48
+    '<' 	shift, and go to state 49
+    '>' 	shift, and go to state 50
+    '=' 	shift, and go to state 51
+    LESSEQ	shift, and go to state 52
+    MOREEQ	shift, and go to state 53
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+
+    $default	reduce using rule 38 (expr)
+
+
+
+state 87
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr AND expr .   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    NOTEQ	shift, and go to state 45
+    POW 	shift, and go to state 46
+    '<' 	shift, and go to state 49
+    '>' 	shift, and go to state 50
+    '=' 	shift, and go to state 51
+    LESSEQ	shift, and go to state 52
+    MOREEQ	shift, and go to state 53
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+
+    $default	reduce using rule 39 (expr)
+
+
+
+state 88
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr '<' expr .   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    POW 	shift, and go to state 46
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+
+    $default	reduce using rule 44 (expr)
+
+
+
+state 89
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr '>' expr .   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    POW 	shift, and go to state 46
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+
+    $default	reduce using rule 43 (expr)
+
+
+
+state 90
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+    expr  ->  expr '=' expr .   (rule 47)
+
+    POW 	shift, and go to state 46
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+
+    $default	reduce using rule 47 (expr)
+
+
+
+state 91
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr LESSEQ expr .   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    POW 	shift, and go to state 46
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+
+    $default	reduce using rule 45 (expr)
+
+
+
+state 92
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr MOREEQ expr .   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    POW 	shift, and go to state 46
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+
+    $default	reduce using rule 46 (expr)
+
+
+
+state 93
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr '-' expr .   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    POW 	shift, and go to state 46
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+
+    $default	reduce using rule 31 (expr)
+
+
+
+state 94
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr '+' expr .   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    POW 	shift, and go to state 46
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+
+    $default	reduce using rule 30 (expr)
+
+
+
+state 95
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr '*' expr .   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    POW 	shift, and go to state 46
+
+    $default	reduce using rule 32 (expr)
+
+
+
+state 96
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr '/' expr .   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    POW 	shift, and go to state 46
+
+    $default	reduce using rule 33 (expr)
+
+
+
+state 97
+
+    expr  ->  ID '[' CELVAL ']' . ASSIGN expr   (rule 49)
+    expr  ->  ID '[' CELVAL ']' .   (rule 52)
+
+    ASSIGN	shift, and go to state 115
+
+    $default	reduce using rule 52 (expr)
+
+
+
+state 98
+
+    expr  ->  ID '(' expr_list ')' .   (rule 54)
+
+    $default	reduce using rule 54 (expr)
+
+
+
+state 99
+
+    switch_lines  ->  PRI expr ':' . stmt_list   (rule 22)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt_list	go to state 116
+    stmt	go to state 17
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 100
+
+    switch_lines  ->  switch_lines PRI expr . ':' stmt_list   (rule 23)
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    NOTEQ	shift, and go to state 45
+    POW 	shift, and go to state 46
+    OR  	shift, and go to state 47
+    AND 	shift, and go to state 48
+    '<' 	shift, and go to state 49
+    '>' 	shift, and go to state 50
+    '=' 	shift, and go to state 51
+    LESSEQ	shift, and go to state 52
+    MOREEQ	shift, and go to state 53
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+    ':' 	shift, and go to state 117
+
+
+
+state 101
+
+    stmt_list  ->  stmt_list . stmt   (rule 10)
+    switch_stmt  ->  VIBOR switch_lines ELSE stmt_list . VSE   (rule 21)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    VSE 	shift, and go to state 118
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt	go to state 41
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 102
+
+    stmt_list  ->  stmt_list . stmt   (rule 10)
+    loop_stmt  ->  NZ CELVAL RAZ stmt_list . KZ   (rule 29)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    KZ  	shift, and go to state 119
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt	go to state 41
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 103
+
+    loop_stmt  ->  NZ DLYA ID OT . CELVAL DO CELVAL stmt_list KZ   (rule 24)
+    loop_stmt  ->  NZ DLYA ID OT . CELVAL DO CELVAL SHAG CELVAL stmt_list KZ   (rule 25)
+
+    CELVAL	shift, and go to state 120
+
+
+
+state 104
+
+    loop_stmt  ->  NZ POKA expr ';' . stmt_list KZ   (rule 28)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt_list	go to state 121
+    stmt	go to state 17
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 105
+
+    loop_stmt  ->  NZ stmt_list KZ_PRI expr .   (rule 27)
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+
+    NOTEQ	shift, and go to state 45
+    POW 	shift, and go to state 46
+    OR  	shift, and go to state 47
+    AND 	shift, and go to state 48
+    '<' 	shift, and go to state 49
+    '>' 	shift, and go to state 50
+    '=' 	shift, and go to state 51
+    LESSEQ	shift, and go to state 52
+    MOREEQ	shift, and go to state 53
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+
+    $default	reduce using rule 27 (loop_stmt)
+
+
+
+state 106
+
+    stmt_list  ->  stmt_list . stmt   (rule 10)
+    if_stmt  ->  IF expr THEN stmt_list . VSE   (rule 18)
+    if_stmt  ->  IF expr THEN stmt_list . ELSE stmt_list VSE   (rule 19)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    ELSE	shift, and go to state 122
+    VSE 	shift, and go to state 123
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt	go to state 41
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 107
+
+    func_pref_listE  ->  FUNCPREF ';' .   (rule 74)
+
+    $default	reduce using rule 74 (func_pref_listE)
+
+
+
+state 108
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+    func_pref_listE  ->  FUNCPREF expr . ';'   (rule 75)
+
+    NOTEQ	shift, and go to state 45
+    POW 	shift, and go to state 46
+    OR  	shift, and go to state 47
+    AND 	shift, and go to state 48
+    '<' 	shift, and go to state 49
+    '>' 	shift, and go to state 50
+    '=' 	shift, and go to state 51
+    LESSEQ	shift, and go to state 52
+    MOREEQ	shift, and go to state 53
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+    ';' 	shift, and go to state 124
+
+
+
+state 109
+
+    program  ->  ALG ';' func_pref_list NACH . ';' stmt_list KON ';'   (rule 2)
+    program  ->  ALG ';' func_pref_list NACH . ';' stmt_list KON ';' func_list   (rule 4)
+
+    ';' 	shift, and go to state 125
+
+
+
+state 110
+
+    func_pref_listE  ->  func_pref_listE FUNCPREF .   (rule 76)
+    func_pref_listE  ->  func_pref_listE FUNCPREF . expr ';'   (rule 77)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    $default	reduce using rule 76 (func_pref_listE)
+
+    expr	go to state 126
+
+
+
+state 111
+
+    id_list  ->  ID '[' CELVAL . ']'   (rule 59)
+
+    ']' 	shift, and go to state 127
+
+
+
+state 112
+
+    id_list  ->  id_list ',' ID .   (rule 60)
+    id_list  ->  id_list ',' ID . '[' CELVAL ']'   (rule 61)
+
+    '[' 	shift, and go to state 128
+
+    $default	reduce using rule 60 (id_list)
+
+
+
+state 113
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+    expr_list  ->  expr_list ',' expr .   (rule 57)
+
+    NOTEQ	shift, and go to state 45
+    POW 	shift, and go to state 46
+    OR  	shift, and go to state 47
+    AND 	shift, and go to state 48
+    '<' 	shift, and go to state 49
+    '>' 	shift, and go to state 50
+    '=' 	shift, and go to state 51
+    LESSEQ	shift, and go to state 52
+    MOREEQ	shift, and go to state 53
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+
+    $default	reduce using rule 57 (expr_list)
+
+
+
+state 114
+
+    program  ->  stmt_list ALG ';' func_pref_list . NACH ';' stmt_list KON ';'   (rule 1)
+    program  ->  stmt_list ALG ';' func_pref_list . NACH ';' stmt_list KON ';' func_list   (rule 3)
+
+    NACH	shift, and go to state 129
+
+
+
+state 115
+
+    expr  ->  ID '[' CELVAL ']' ASSIGN . expr   (rule 49)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    NS  	shift, and go to state 11
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    expr	go to state 130
+
+
+
+state 116
+
+    stmt_list  ->  stmt_list . stmt   (rule 10)
+    switch_lines  ->  PRI expr ':' stmt_list .   (rule 22)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    $default	reduce using rule 22 (switch_lines)
+
+    stmt	go to state 41
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 117
+
+    switch_lines  ->  switch_lines PRI expr ':' . stmt_list   (rule 23)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt_list	go to state 131
+    stmt	go to state 17
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 118
+
+    switch_stmt  ->  VIBOR switch_lines ELSE stmt_list VSE .   (rule 21)
+
+    $default	reduce using rule 21 (switch_stmt)
+
+
+
+state 119
+
+    loop_stmt  ->  NZ CELVAL RAZ stmt_list KZ .   (rule 29)
+
+    $default	reduce using rule 29 (loop_stmt)
+
+
+
+state 120
+
+    loop_stmt  ->  NZ DLYA ID OT CELVAL . DO CELVAL stmt_list KZ   (rule 24)
+    loop_stmt  ->  NZ DLYA ID OT CELVAL . DO CELVAL SHAG CELVAL stmt_list KZ   (rule 25)
+
+    DO  	shift, and go to state 132
+
+
+
+state 121
+
+    stmt_list  ->  stmt_list . stmt   (rule 10)
+    loop_stmt  ->  NZ POKA expr ';' stmt_list . KZ   (rule 28)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    KZ  	shift, and go to state 133
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt	go to state 41
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 122
+
+    if_stmt  ->  IF expr THEN stmt_list ELSE . stmt_list VSE   (rule 19)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt_list	go to state 134
+    stmt	go to state 17
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 123
+
+    if_stmt  ->  IF expr THEN stmt_list VSE .   (rule 18)
+
+    $default	reduce using rule 18 (if_stmt)
+
+
+
+state 124
+
+    func_pref_listE  ->  FUNCPREF expr ';' .   (rule 75)
+
+    $default	reduce using rule 75 (func_pref_listE)
+
+
+
+state 125
+
+    program  ->  ALG ';' func_pref_list NACH ';' . stmt_list KON ';'   (rule 2)
+    program  ->  ALG ';' func_pref_list NACH ';' . stmt_list KON ';' func_list   (rule 4)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt_list	go to state 135
+    stmt	go to state 17
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 126
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+    func_pref_listE  ->  func_pref_listE FUNCPREF expr . ';'   (rule 77)
+
+    NOTEQ	shift, and go to state 45
+    POW 	shift, and go to state 46
+    OR  	shift, and go to state 47
+    AND 	shift, and go to state 48
+    '<' 	shift, and go to state 49
+    '>' 	shift, and go to state 50
+    '=' 	shift, and go to state 51
+    LESSEQ	shift, and go to state 52
+    MOREEQ	shift, and go to state 53
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+    ';' 	shift, and go to state 136
+
+
+
+state 127
+
+    id_list  ->  ID '[' CELVAL ']' .   (rule 59)
+
+    $default	reduce using rule 59 (id_list)
+
+
+
+state 128
+
+    id_list  ->  id_list ',' ID '[' . CELVAL ']'   (rule 61)
+
+    CELVAL	shift, and go to state 137
+
+
+
+state 129
+
+    program  ->  stmt_list ALG ';' func_pref_list NACH . ';' stmt_list KON ';'   (rule 1)
+    program  ->  stmt_list ALG ';' func_pref_list NACH . ';' stmt_list KON ';' func_list   (rule 3)
+
+    ';' 	shift, and go to state 138
+
+
+
+state 130
+
+    expr  ->  expr . '+' expr   (rule 30)
+    expr  ->  expr . '-' expr   (rule 31)
+    expr  ->  expr . '*' expr   (rule 32)
+    expr  ->  expr . '/' expr   (rule 33)
+    expr  ->  expr . POW expr   (rule 35)
+    expr  ->  expr . NOTEQ expr   (rule 37)
+    expr  ->  expr . OR expr   (rule 38)
+    expr  ->  expr . AND expr   (rule 39)
+    expr  ->  expr . '>' expr   (rule 43)
+    expr  ->  expr . '<' expr   (rule 44)
+    expr  ->  expr . LESSEQ expr   (rule 45)
+    expr  ->  expr . MOREEQ expr   (rule 46)
+    expr  ->  expr . '=' expr   (rule 47)
+    expr  ->  ID '[' CELVAL ']' ASSIGN expr .   (rule 49)
+
+    NOTEQ	shift, and go to state 45
+    POW 	shift, and go to state 46
+    OR  	shift, and go to state 47
+    AND 	shift, and go to state 48
+    '<' 	shift, and go to state 49
+    '>' 	shift, and go to state 50
+    '=' 	shift, and go to state 51
+    LESSEQ	shift, and go to state 52
+    MOREEQ	shift, and go to state 53
+    '-' 	shift, and go to state 54
+    '+' 	shift, and go to state 55
+    '*' 	shift, and go to state 56
+    '/' 	shift, and go to state 57
+
+    $default	reduce using rule 49 (expr)
+
+
+
+state 131
+
+    stmt_list  ->  stmt_list . stmt   (rule 10)
+    switch_lines  ->  switch_lines PRI expr ':' stmt_list .   (rule 23)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    $default	reduce using rule 23 (switch_lines)
+
+    stmt	go to state 41
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 132
+
+    loop_stmt  ->  NZ DLYA ID OT CELVAL DO . CELVAL stmt_list KZ   (rule 24)
+    loop_stmt  ->  NZ DLYA ID OT CELVAL DO . CELVAL SHAG CELVAL stmt_list KZ   (rule 25)
+
+    CELVAL	shift, and go to state 139
+
+
+
+state 133
+
+    loop_stmt  ->  NZ POKA expr ';' stmt_list KZ .   (rule 28)
+
+    $default	reduce using rule 28 (loop_stmt)
+
+
+
+state 134
+
+    stmt_list  ->  stmt_list . stmt   (rule 10)
+    if_stmt  ->  IF expr THEN stmt_list ELSE stmt_list . VSE   (rule 19)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    VSE 	shift, and go to state 140
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt	go to state 41
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 135
+
+    program  ->  ALG ';' func_pref_list NACH ';' stmt_list . KON ';'   (rule 2)
+    program  ->  ALG ';' func_pref_list NACH ';' stmt_list . KON ';' func_list   (rule 4)
+    stmt_list  ->  stmt_list . stmt   (rule 10)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    KON 	shift, and go to state 141
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt	go to state 41
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 136
+
+    func_pref_listE  ->  func_pref_listE FUNCPREF expr ';' .   (rule 77)
+
+    $default	reduce using rule 77 (func_pref_listE)
+
+
+
+state 137
+
+    id_list  ->  id_list ',' ID '[' CELVAL . ']'   (rule 61)
+
+    ']' 	shift, and go to state 142
+
+
+
+state 138
+
+    program  ->  stmt_list ALG ';' func_pref_list NACH ';' . stmt_list KON ';'   (rule 1)
+    program  ->  stmt_list ALG ';' func_pref_list NACH ';' . stmt_list KON ';' func_list   (rule 3)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt_list	go to state 143
+    stmt	go to state 17
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 139
+
+    loop_stmt  ->  NZ DLYA ID OT CELVAL DO CELVAL . stmt_list KZ   (rule 24)
+    loop_stmt  ->  NZ DLYA ID OT CELVAL DO CELVAL . SHAG CELVAL stmt_list KZ   (rule 25)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    SHAG	shift, and go to state 144
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt_list	go to state 145
+    stmt	go to state 17
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 140
+
+    if_stmt  ->  IF expr THEN stmt_list ELSE stmt_list VSE .   (rule 19)
+
+    $default	reduce using rule 19 (if_stmt)
+
+
+
+state 141
+
+    program  ->  ALG ';' func_pref_list NACH ';' stmt_list KON . ';'   (rule 2)
+    program  ->  ALG ';' func_pref_list NACH ';' stmt_list KON . ';' func_list   (rule 4)
+
+    ';' 	shift, and go to state 146
+
+
+
+state 142
+
+    id_list  ->  id_list ',' ID '[' CELVAL ']' .   (rule 61)
+
+    $default	reduce using rule 61 (id_list)
+
+
+
+state 143
+
+    program  ->  stmt_list ALG ';' func_pref_list NACH ';' stmt_list . KON ';'   (rule 1)
+    program  ->  stmt_list ALG ';' func_pref_list NACH ';' stmt_list . KON ';' func_list   (rule 3)
+    stmt_list  ->  stmt_list . stmt   (rule 10)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    KON 	shift, and go to state 147
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt	go to state 41
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 144
+
+    loop_stmt  ->  NZ DLYA ID OT CELVAL DO CELVAL SHAG . CELVAL stmt_list KZ   (rule 25)
+
+    CELVAL	shift, and go to state 148
+
+
+
+state 145
+
+    stmt_list  ->  stmt_list . stmt   (rule 10)
+    loop_stmt  ->  NZ DLYA ID OT CELVAL DO CELVAL stmt_list . KZ   (rule 24)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    KZ  	shift, and go to state 149
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt	go to state 41
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 146
+
+    program  ->  ALG ';' func_pref_list NACH ';' stmt_list KON ';' .   (rule 2)
+    program  ->  ALG ';' func_pref_list NACH ';' stmt_list KON ';' . func_list   (rule 4)
+
+    ALG 	shift, and go to state 150
+    TYPE	shift, and go to state 151
+
+    $default	reduce using rule 2 (program)
+
+    func_list	go to state 152
+
+
+
+state 147
+
+    program  ->  stmt_list ALG ';' func_pref_list NACH ';' stmt_list KON . ';'   (rule 1)
+    program  ->  stmt_list ALG ';' func_pref_list NACH ';' stmt_list KON . ';' func_list   (rule 3)
+
+    ';' 	shift, and go to state 153
+
+
+
+state 148
+
+    loop_stmt  ->  NZ DLYA ID OT CELVAL DO CELVAL SHAG CELVAL . stmt_list KZ   (rule 25)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt_list	go to state 154
+    stmt	go to state 17
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 149
+
+    loop_stmt  ->  NZ DLYA ID OT CELVAL DO CELVAL stmt_list KZ .   (rule 24)
+
+    $default	reduce using rule 24 (loop_stmt)
+
+
+
+state 150
+
+    func_list  ->  ALG . ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 5)
+
+    ID  	shift, and go to state 155
+
+
+
+state 151
+
+    func_list  ->  TYPE . ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 6)
+
+    ALG 	shift, and go to state 156
+
+
+
+state 152
+
+    program  ->  ALG ';' func_pref_list NACH ';' stmt_list KON ';' func_list .   (rule 4)
+    func_list  ->  func_list . ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 7)
+    func_list  ->  func_list . TYPE ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 8)
+
+    ALG 	shift, and go to state 157
+    TYPE	shift, and go to state 158
+
+    $default	reduce using rule 4 (program)
+
+
+
+state 153
+
+    program  ->  stmt_list ALG ';' func_pref_list NACH ';' stmt_list KON ';' .   (rule 1)
+    program  ->  stmt_list ALG ';' func_pref_list NACH ';' stmt_list KON ';' . func_list   (rule 3)
+
+    ALG 	shift, and go to state 150
+    TYPE	shift, and go to state 151
+
+    $default	reduce using rule 1 (program)
+
+    func_list	go to state 159
+
+
+
+state 154
+
+    stmt_list  ->  stmt_list . stmt   (rule 10)
+    loop_stmt  ->  NZ DLYA ID OT CELVAL DO CELVAL SHAG CELVAL stmt_list . KZ   (rule 25)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    KZ  	shift, and go to state 160
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt	go to state 41
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 155
+
+    func_list  ->  ALG ID . '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 5)
+
+    '(' 	shift, and go to state 161
+
+
+
+state 156
+
+    func_list  ->  TYPE ALG . ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 6)
+
+    ID  	shift, and go to state 162
+
+
+
+state 157
+
+    func_list  ->  func_list ALG . ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 7)
+
+    ID  	shift, and go to state 163
+
+
+
+state 158
+
+    func_list  ->  func_list TYPE . ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 8)
+
+    ALG 	shift, and go to state 164
+
+
+
+state 159
+
+    program  ->  stmt_list ALG ';' func_pref_list NACH ';' stmt_list KON ';' func_list .   (rule 3)
+    func_list  ->  func_list . ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 7)
+    func_list  ->  func_list . TYPE ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 8)
+
+    ALG 	shift, and go to state 157
+    TYPE	shift, and go to state 158
+
+    $default	reduce using rule 3 (program)
+
+
+
+state 160
+
+    loop_stmt  ->  NZ DLYA ID OT CELVAL DO CELVAL SHAG CELVAL stmt_list KZ .   (rule 25)
+
+    $default	reduce using rule 25 (loop_stmt)
+
+
+
+state 161
+
+    func_list  ->  ALG ID '(' . arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 5)
+
+    TYPE	shift, and go to state 165
+    ARGTYPE	shift, and go to state 166
+
+    $default	reduce using rule 62 (arg_list)
+
+    arg_list	go to state 167
+    arg_listE	go to state 168
+
+
+
+state 162
+
+    func_list  ->  TYPE ALG ID . '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 6)
+
+    '(' 	shift, and go to state 169
+
+
+
+state 163
+
+    func_list  ->  func_list ALG ID . '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 7)
+
+    '(' 	shift, and go to state 170
+
+
+
+state 164
+
+    func_list  ->  func_list TYPE ALG . ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 8)
+
+    ID  	shift, and go to state 171
+
+
+
+state 165
+
+    arg_listE  ->  TYPE . ID   (rule 66)
+    arg_listE  ->  TYPE . ID '[' CELVAL ']'   (rule 67)
+
+    ID  	shift, and go to state 172
+
+
+
+state 166
+
+    arg_listE  ->  ARGTYPE . TYPE ID   (rule 64)
+    arg_listE  ->  ARGTYPE . TYPE ID '[' CELVAL ']'   (rule 65)
+
+    TYPE	shift, and go to state 173
+
+
+
+state 167
+
+    func_list  ->  ALG ID '(' arg_list . ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 5)
+
+    ')' 	shift, and go to state 174
+
+
+
+state 168
+
+    arg_list  ->  arg_listE .   (rule 63)
+    arg_listE  ->  arg_listE . ',' ARGTYPE TYPE ID   (rule 68)
+    arg_listE  ->  arg_listE . ',' ARGTYPE TYPE ID '[' CELVAL ']'   (rule 69)
+    arg_listE  ->  arg_listE . ',' TYPE ID   (rule 70)
+    arg_listE  ->  arg_listE . ',' TYPE ID '[' CELVAL ']'   (rule 71)
+
+    ',' 	shift, and go to state 175
+
+    $default	reduce using rule 63 (arg_list)
+
+
+
+state 169
+
+    func_list  ->  TYPE ALG ID '(' . arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 6)
+
+    TYPE	shift, and go to state 165
+    ARGTYPE	shift, and go to state 166
+
+    $default	reduce using rule 62 (arg_list)
+
+    arg_list	go to state 176
+    arg_listE	go to state 168
+
+
+
+state 170
+
+    func_list  ->  func_list ALG ID '(' . arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 7)
+
+    TYPE	shift, and go to state 165
+    ARGTYPE	shift, and go to state 166
+
+    $default	reduce using rule 62 (arg_list)
+
+    arg_list	go to state 177
+    arg_listE	go to state 168
+
+
+
+state 171
+
+    func_list  ->  func_list TYPE ALG ID . '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 8)
+
+    '(' 	shift, and go to state 178
+
+
+
+state 172
+
+    arg_listE  ->  TYPE ID .   (rule 66)
+    arg_listE  ->  TYPE ID . '[' CELVAL ']'   (rule 67)
+
+    '[' 	shift, and go to state 179
+
+    $default	reduce using rule 66 (arg_listE)
+
+
+
+state 173
+
+    arg_listE  ->  ARGTYPE TYPE . ID   (rule 64)
+    arg_listE  ->  ARGTYPE TYPE . ID '[' CELVAL ']'   (rule 65)
+
+    ID  	shift, and go to state 180
+
+
+
+state 174
+
+    func_list  ->  ALG ID '(' arg_list ')' . ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 5)
+
+    ';' 	shift, and go to state 181
+
+
+
+state 175
+
+    arg_listE  ->  arg_listE ',' . ARGTYPE TYPE ID   (rule 68)
+    arg_listE  ->  arg_listE ',' . ARGTYPE TYPE ID '[' CELVAL ']'   (rule 69)
+    arg_listE  ->  arg_listE ',' . TYPE ID   (rule 70)
+    arg_listE  ->  arg_listE ',' . TYPE ID '[' CELVAL ']'   (rule 71)
+
+    TYPE	shift, and go to state 182
+    ARGTYPE	shift, and go to state 183
+
+
+
+state 176
+
+    func_list  ->  TYPE ALG ID '(' arg_list . ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 6)
+
+    ')' 	shift, and go to state 184
+
+
+
+state 177
+
+    func_list  ->  func_list ALG ID '(' arg_list . ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 7)
+
+    ')' 	shift, and go to state 185
+
+
+
+state 178
+
+    func_list  ->  func_list TYPE ALG ID '(' . arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 8)
+
+    TYPE	shift, and go to state 165
+    ARGTYPE	shift, and go to state 166
+
+    $default	reduce using rule 62 (arg_list)
+
+    arg_list	go to state 186
+    arg_listE	go to state 168
+
+
+
+state 179
+
+    arg_listE  ->  TYPE ID '[' . CELVAL ']'   (rule 67)
+
+    CELVAL	shift, and go to state 187
+
+
+
+state 180
+
+    arg_listE  ->  ARGTYPE TYPE ID .   (rule 64)
+    arg_listE  ->  ARGTYPE TYPE ID . '[' CELVAL ']'   (rule 65)
+
+    '[' 	shift, and go to state 188
+
+    $default	reduce using rule 64 (arg_listE)
+
+
+
+state 181
+
+    func_list  ->  ALG ID '(' arg_list ')' ';' . func_pref_list NACH ';' stmt_list KON ';'   (rule 5)
+
+    FUNCPREF	shift, and go to state 73
+
+    $default	reduce using rule 72 (func_pref_list)
+
+    func_pref_list	go to state 189
+    func_pref_listE	go to state 75
+
+
+
+state 182
+
+    arg_listE  ->  arg_listE ',' TYPE . ID   (rule 70)
+    arg_listE  ->  arg_listE ',' TYPE . ID '[' CELVAL ']'   (rule 71)
+
+    ID  	shift, and go to state 190
+
+
+
+state 183
+
+    arg_listE  ->  arg_listE ',' ARGTYPE . TYPE ID   (rule 68)
+    arg_listE  ->  arg_listE ',' ARGTYPE . TYPE ID '[' CELVAL ']'   (rule 69)
+
+    TYPE	shift, and go to state 191
+
+
+
+state 184
+
+    func_list  ->  TYPE ALG ID '(' arg_list ')' . ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 6)
+
+    ';' 	shift, and go to state 192
+
+
+
+state 185
+
+    func_list  ->  func_list ALG ID '(' arg_list ')' . ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 7)
+
+    ';' 	shift, and go to state 193
+
+
+
+state 186
+
+    func_list  ->  func_list TYPE ALG ID '(' arg_list . ')' ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 8)
+
+    ')' 	shift, and go to state 194
+
+
+
+state 187
+
+    arg_listE  ->  TYPE ID '[' CELVAL . ']'   (rule 67)
+
+    ']' 	shift, and go to state 195
+
+
+
+state 188
+
+    arg_listE  ->  ARGTYPE TYPE ID '[' . CELVAL ']'   (rule 65)
+
+    CELVAL	shift, and go to state 196
+
+
+
+state 189
+
+    func_list  ->  ALG ID '(' arg_list ')' ';' func_pref_list . NACH ';' stmt_list KON ';'   (rule 5)
+
+    NACH	shift, and go to state 197
+
+
+
+state 190
+
+    arg_listE  ->  arg_listE ',' TYPE ID .   (rule 70)
+    arg_listE  ->  arg_listE ',' TYPE ID . '[' CELVAL ']'   (rule 71)
+
+    '[' 	shift, and go to state 198
+
+    $default	reduce using rule 70 (arg_listE)
+
+
+
+state 191
+
+    arg_listE  ->  arg_listE ',' ARGTYPE TYPE . ID   (rule 68)
+    arg_listE  ->  arg_listE ',' ARGTYPE TYPE . ID '[' CELVAL ']'   (rule 69)
+
+    ID  	shift, and go to state 199
+
+
+
+state 192
+
+    func_list  ->  TYPE ALG ID '(' arg_list ')' ';' . func_pref_list NACH ';' stmt_list KON ';'   (rule 6)
+
+    FUNCPREF	shift, and go to state 73
+
+    $default	reduce using rule 72 (func_pref_list)
+
+    func_pref_list	go to state 200
+    func_pref_listE	go to state 75
+
+
+
+state 193
+
+    func_list  ->  func_list ALG ID '(' arg_list ')' ';' . func_pref_list NACH ';' stmt_list KON ';'   (rule 7)
+
+    FUNCPREF	shift, and go to state 73
+
+    $default	reduce using rule 72 (func_pref_list)
+
+    func_pref_list	go to state 201
+    func_pref_listE	go to state 75
+
+
+
+state 194
+
+    func_list  ->  func_list TYPE ALG ID '(' arg_list ')' . ';' func_pref_list NACH ';' stmt_list KON ';'   (rule 8)
+
+    ';' 	shift, and go to state 202
+
+
+
+state 195
+
+    arg_listE  ->  TYPE ID '[' CELVAL ']' .   (rule 67)
+
+    $default	reduce using rule 67 (arg_listE)
+
+
+
+state 196
+
+    arg_listE  ->  ARGTYPE TYPE ID '[' CELVAL . ']'   (rule 65)
+
+    ']' 	shift, and go to state 203
+
+
+
+state 197
+
+    func_list  ->  ALG ID '(' arg_list ')' ';' func_pref_list NACH . ';' stmt_list KON ';'   (rule 5)
+
+    ';' 	shift, and go to state 204
+
+
+
+state 198
+
+    arg_listE  ->  arg_listE ',' TYPE ID '[' . CELVAL ']'   (rule 71)
+
+    CELVAL	shift, and go to state 205
+
+
+
+state 199
+
+    arg_listE  ->  arg_listE ',' ARGTYPE TYPE ID .   (rule 68)
+    arg_listE  ->  arg_listE ',' ARGTYPE TYPE ID . '[' CELVAL ']'   (rule 69)
+
+    '[' 	shift, and go to state 206
+
+    $default	reduce using rule 68 (arg_listE)
+
+
+
+state 200
+
+    func_list  ->  TYPE ALG ID '(' arg_list ')' ';' func_pref_list . NACH ';' stmt_list KON ';'   (rule 6)
+
+    NACH	shift, and go to state 207
+
+
+
+state 201
+
+    func_list  ->  func_list ALG ID '(' arg_list ')' ';' func_pref_list . NACH ';' stmt_list KON ';'   (rule 7)
+
+    NACH	shift, and go to state 208
+
+
+
+state 202
+
+    func_list  ->  func_list TYPE ALG ID '(' arg_list ')' ';' . func_pref_list NACH ';' stmt_list KON ';'   (rule 8)
+
+    FUNCPREF	shift, and go to state 73
+
+    $default	reduce using rule 72 (func_pref_list)
+
+    func_pref_list	go to state 209
+    func_pref_listE	go to state 75
+
+
+
+state 203
+
+    arg_listE  ->  ARGTYPE TYPE ID '[' CELVAL ']' .   (rule 65)
+
+    $default	reduce using rule 65 (arg_listE)
+
+
+
+state 204
+
+    func_list  ->  ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' . stmt_list KON ';'   (rule 5)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt_list	go to state 210
+    stmt	go to state 17
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 205
+
+    arg_listE  ->  arg_listE ',' TYPE ID '[' CELVAL . ']'   (rule 71)
+
+    ']' 	shift, and go to state 211
+
+
+
+state 206
+
+    arg_listE  ->  arg_listE ',' ARGTYPE TYPE ID '[' . CELVAL ']'   (rule 69)
+
+    CELVAL	shift, and go to state 212
+
+
+
+state 207
+
+    func_list  ->  TYPE ALG ID '(' arg_list ')' ';' func_pref_list NACH . ';' stmt_list KON ';'   (rule 6)
+
+    ';' 	shift, and go to state 213
+
+
+
+state 208
+
+    func_list  ->  func_list ALG ID '(' arg_list ')' ';' func_pref_list NACH . ';' stmt_list KON ';'   (rule 7)
+
+    ';' 	shift, and go to state 214
+
+
+
+state 209
+
+    func_list  ->  func_list TYPE ALG ID '(' arg_list ')' ';' func_pref_list . NACH ';' stmt_list KON ';'   (rule 8)
+
+    NACH	shift, and go to state 215
+
+
+
+state 210
+
+    func_list  ->  ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list . KON ';'   (rule 5)
+    stmt_list  ->  stmt_list . stmt   (rule 10)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    KON 	shift, and go to state 216
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt	go to state 41
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 211
+
+    arg_listE  ->  arg_listE ',' TYPE ID '[' CELVAL ']' .   (rule 71)
+
+    $default	reduce using rule 71 (arg_listE)
+
+
+
+state 212
+
+    arg_listE  ->  arg_listE ',' ARGTYPE TYPE ID '[' CELVAL . ']'   (rule 69)
+
+    ']' 	shift, and go to state 217
+
+
+
+state 213
+
+    func_list  ->  TYPE ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' . stmt_list KON ';'   (rule 6)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt_list	go to state 218
+    stmt	go to state 17
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 214
+
+    func_list  ->  func_list ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' . stmt_list KON ';'   (rule 7)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt_list	go to state 219
+    stmt	go to state 17
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 215
+
+    func_list  ->  func_list TYPE ALG ID '(' arg_list ')' ';' func_pref_list NACH . ';' stmt_list KON ';'   (rule 8)
+
+    ';' 	shift, and go to state 220
+
+
+
+state 216
+
+    func_list  ->  ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON . ';'   (rule 5)
+
+    ';' 	shift, and go to state 221
+
+
+
+state 217
+
+    arg_listE  ->  arg_listE ',' ARGTYPE TYPE ID '[' CELVAL ']' .   (rule 69)
+
+    $default	reduce using rule 69 (arg_listE)
+
+
+
+state 218
+
+    func_list  ->  TYPE ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list . KON ';'   (rule 6)
+    stmt_list  ->  stmt_list . stmt   (rule 10)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    KON 	shift, and go to state 222
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt	go to state 41
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 219
+
+    func_list  ->  func_list ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list . KON ';'   (rule 7)
+    stmt_list  ->  stmt_list . stmt   (rule 10)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    KON 	shift, and go to state 223
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt	go to state 41
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 220
+
+    func_list  ->  func_list TYPE ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' . stmt_list KON ';'   (rule 8)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt_list	go to state 224
+    stmt	go to state 17
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 221
+
+    func_list  ->  ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';' .   (rule 5)
+
+    $default	reduce using rule 5 (func_list)
+
+
+
+state 222
+
+    func_list  ->  TYPE ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON . ';'   (rule 6)
+
+    ';' 	shift, and go to state 225
+
+
+
+state 223
+
+    func_list  ->  func_list ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON . ';'   (rule 7)
+
+    ';' 	shift, and go to state 226
+
+
+
+state 224
+
+    func_list  ->  func_list TYPE ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list . KON ';'   (rule 8)
+    stmt_list  ->  stmt_list . stmt   (rule 10)
+
+    CELVAL	shift, and go to state 1
+    VESHVAL	shift, and go to state 2
+    ID  	shift, and go to state 3
+    VIBOR	shift, and go to state 4
+    NZ  	shift, and go to state 5
+    IF  	shift, and go to state 6
+    DA  	shift, and go to state 7
+    NET 	shift, and go to state 8
+    KON 	shift, and go to state 227
+    TYPE	shift, and go to state 10
+    NS  	shift, and go to state 11
+    VVOD	shift, and go to state 12
+    VIVOD	shift, and go to state 13
+    '-' 	shift, and go to state 14
+    '(' 	shift, and go to state 15
+
+    stmt	go to state 41
+    if_stmt	go to state 18
+    switch_stmt	go to state 19
+    loop_stmt	go to state 20
+    expr	go to state 21
+
+
+
+state 225
+
+    func_list  ->  TYPE ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';' .   (rule 6)
+
+    $default	reduce using rule 6 (func_list)
+
+
+
+state 226
+
+    func_list  ->  func_list ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';' .   (rule 7)
+
+    $default	reduce using rule 7 (func_list)
+
+
+
+state 227
+
+    func_list  ->  func_list TYPE ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON . ';'   (rule 8)
+
+    ';' 	shift, and go to state 228
+
+
+
+state 228
+
+    func_list  ->  func_list TYPE ALG ID '(' arg_list ')' ';' func_pref_list NACH ';' stmt_list KON ';' .   (rule 8)
+
+    $default	reduce using rule 8 (func_list)
+
+
+
+state 229
+
+    $   	go to state 230
+
+
+
+state 230
+
+    $   	go to state 231
+
+
+
+state 231
+
+    $default	accept

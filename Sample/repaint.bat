@@ -1,0 +1,1 @@
+graphviz-2.38\bin\dot.exe tree.dot -Tjpg -o"tree.jpg"

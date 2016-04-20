@@ -1,0 +1,131 @@
+%{
+ #include "simple_tab.h"
+ #include <stdlib.h>
+ #include <string.h>
+ #include <conio.h>
+ #include <locale.h>
+ extern int yyparse(void);
+ char * formText(char * str);
+%}
+%option noyywrap
+%option never-interactive
+
+digit			[0-9]
+number			[1-9]{digit}*|0
+hexnum			"$"[0-9a-fA-F]+
+float			{number}"."{digit}*
+expfloat		({float}|{number})[е≈eE]("+"|"-")?{number}
+identifier		[a-zA-Zа-€ј-яЄ®@_][a-zA-Zа-€ј-яЄ®0-9@_]*
+identifier2		[a-zA-Zа-€ј-яЄ®0-9@_]+
+quote1			"\'"[^']*"\'"
+quote2			"\""[^"]*"\""
+
+%%
+алг				{ return ALG; }
+дано			{ yylval.int_const = 1; return FUNCPREF; }
+надо			{ yylval.int_const = 2; return FUNCPREF; }
+нач				{ return NACH; }
+кон				{ return KON; }
+арг				{ yylval.int_const = 1; return ARGTYPE; }
+рез				{ yylval.int_const = 2; return ARGTYPE; }
+аргрез			{ yylval.int_const = 3; return ARGTYPE; }
+";"				return ';';
+цел				{ yylval.int_const = 1; return TYPE; }
+вещ				{ yylval.int_const = 2; return TYPE; }
+лог				{ yylval.int_const = 3; return TYPE; }
+сим				{ yylval.int_const = 4; return TYPE; }
+лит				{ yylval.int_const = 5; return TYPE; }
+таб				{ yylval.int_const = 6; return TYPE; }
+целтаб			{ yylval.int_const = 7; return TYPE; }
+вещтаб			{ yylval.int_const = 8; return TYPE; }
+логтаб			{ yylval.int_const = 9; return TYPE; }
+симтаб			{ yylval.int_const = 10; return TYPE; }
+литтаб			{ yylval.int_const = 11; return TYPE; }
+и				return AND;
+или				return OR;
+не				return NE;
+да				return DA;
+нет				return NET;
+утв				return UTV;
+выход			return VIHOD;
+ввод			return VVOD;
+вывод			return VIVOD;
+нс				return NS;
+если			return IF;
+то				return THEN;
+иначе			return ELSE;
+вс(е|Є)			return VSE;
+выбор			return VIBOR;
+при				return PRI;
+нц				return NZ;
+кц				return KZ;
+кц_при			return KZ_PRI;
+раз				return RAZ;
+пока			return POKA;
+дл€				return DLYA;
+от				return OT;
+до				return DO;
+шаг				return SHAG;
+{number} 		{
+					yylval.int_const = atoi(yytext); 
+					return CELVAL;
+				}
+{hexnum} 		{
+					int d;
+					sscanf(yytext+1, "%x", &d);
+					yylval.int_const = d; return CELVAL;	
+				}
+{float} 		{
+					yylval.float_const = atof(yytext); 
+					return VESHVAL;
+				}
+{expfloat} 		{
+					yylval.float_const = atof(yytext); 
+					return VESHVAL;
+				}
+{identifier}	{
+					yylval.id = formText(yytext);
+					return ID;
+				}
+{identifier2}	{
+					yylval.id = formText(yytext);
+					return ID;
+				}
+{quote1}		{
+					yylval.id = formText(yytext);
+					return QUOTE1;
+				}
+{quote2}		{
+					yylval.id = formText(yytext);
+					return QUOTE2;
+				}
+","				return ',';
+"("				return '(';
+")"				return ')';
+"["				return '[';
+"]"				return ']';
+":"				return ':';
+":="			return ASSIGN;
+"+"				return '+';
+"-"				return '-';
+"*"				return '*';
+"/"				return '/';
+"**"			return POW;
+"="				return '=';
+"<>"			return NOTEQ;
+"<"				return '<';
+">"				return '>';
+"<="			return LESSEQ;
+">="			return MOREEQ;
+"    "|"\t"		;
+"|".*			;
+"#".*			;
+" "{1,3}|"\n"|"\n\r"|"\r\n"|"\r"; /*skip*/
+.				;
+%%
+char * formText(char * str)
+{
+char * res = (char *)malloc(sizeof(char)*1024);
+strcpy(res, str);
+return res;
+}

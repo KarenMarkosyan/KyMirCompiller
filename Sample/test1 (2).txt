@@ -1,0 +1,14 @@
+алг
+нач
+вещ c;
+c := 123;
+цел а;
+а := return_number_three(c);
+кон
+
+цел алг return_number_three(арг вещ param, цел ололо);
+надо return_number_three(param)=4;
+дано c=4;
+нач;
+знач := 3;
+кон;
